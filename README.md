@@ -1,4 +1,4 @@
-# Web3 增长黑客
+# Web3 增长黑客（筹备中）
 
 ## 介绍
 
@@ -94,12 +94,12 @@ Web3, 增长, 运营, 创业
 ## 报名时间
 
 - 报名开始时间：2025-08-01
-- 报名结束时间：2025-09-01
+- 报名结束时间：2025-08-31
 
 ## 共学时间
 
 - 共学开始时间：2025-09-01
-- 共学结束时间：2025-10-01
+- 共学结束时间：2025-09-30
 
 ## 发起人
 
@@ -110,7 +110,7 @@ Web3, 增长, 运营, 创业
 
 ## 发起组织
 
-  [Outrun](testnet.outrun.build) <img alt="organization-logo" height="60px" width="60px" src="https://drive.google.com/file/d/1INIlnIGnphuJYlFTA5Mo_LgU7_Qh1rQu/view?usp=sharing" />
+  [Outrun](https://testnet.outrun.build) <img alt="organization-logo" height="60px" width="60px" src="https://drive.google.com/file/d/1INIlnIGnphuJYlFTA5Mo_LgU7_Qh1rQu/view?usp=sharing" />
 
 
 
@@ -120,7 +120,7 @@ Web3, 增长, 运营, 创业
 
 ## 社群
 
-Telegram：
+Telegram：https://t.me/web3_growth_hacker
 
 ## 学习资料/课程安排
 
