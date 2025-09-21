@@ -186,9 +186,6 @@ Web3, 增长, 运营, 创业
 
 ## 发起组织
 
-  [Outrun](https://testnet.outrun.build) <img alt="organization-logo" height="60px" width="60px" src="https://drive.google.com/file/d/1INIlnIGnphuJYlFTA5Mo_LgU7_Qh1rQu/view?usp=sharing" />
-
-
 
 ## 请假规则
 
